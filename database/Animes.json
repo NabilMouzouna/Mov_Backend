@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Death Note",
+        "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Death_Note_Vol_1.jpg",
+        "featured":"https://images.alphacoders.com/132/1328054.png",
+        "year": "2006",
+        "genre": ["Mystery", "Thriller"],
+        "rating": "9.0",
+        "category": "Anime"
+    },
+    {
+        "name": "Attack on Titan",
+        "img": "https://mfiles.alphacoders.com/979/979193.jpg",
+        "featured":"https://images3.alphacoders.com/653/653529.jpg",
+        "year": "2013",
+        "genre": ["Action", "Fantasy"],
+        "rating": "8.9",
+        "category": "Anime"
+    },
+    {
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Fullmetal_Alchemist_Brotherhood_key_visual.png",
+        "featured":"https://images4.alphacoders.com/734/734739.jpg",
+        "year": "2009",
+        "genre": ["Action", "Adventure"],
+        "rating": "9.1",
+        "category": "Anime"
+    },
+    {
+        "name": "One Punch Man",
+        "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/One-Punch_Man_S2_BR1.jpg",
+        "year": "2015",
+        "genre": ["Action", "Comedy"],
+        "featured":"https://images2.alphacoders.com/130/1300593.png",
+        "rating": "8.8",
+        "category": "Anime"
+    },
+    {
+        "name": "Naruto",
+        "img": "https://upload.wikimedia.org/wikipedia/en/2/29/Naruto_Shippuden_the_Movie_-_The_Lost_Tower.jpg",
+        "year": "2002",
+        "featured": "https://images.alphacoders.com/605/605592.png",
+        "genre": ["Action", "Adventure"],
+        "rating": "8.3",
+        "category": "Anime"
+    },
+    {
+        "name": "My Hero Academia",
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/My_Hero_Academia_-_Two_Heroes_poster.jpg",
+        "year": "2016",
+        "featured":"https://images2.alphacoders.com/735/735262.png",
+        "genre": ["Action", "Fantasy"],
+        "rating": "8.4",
+        "category": "Anime"
+    },
+    {
+        "name": "Sword Art Online",
+        "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/Sword_Art_Online_light_novel_volume_1_cover.jpg",
+        "year": "2012",
+        "genre": ["Action", "Adventure"],
+        "featured":"https://images7.alphacoders.com/599/599379.jpg",
+        "rating": "7.6",
+        "category": "Anime"
+    },
+    {
+        "name": "Cowboy Bebop",
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cowboy_Bebop_key_visual.jpg",
+        "year": "1998",
+        "featured":"https://images4.alphacoders.com/820/82076.jpg",
+        "genre": ["Action", "Adventure"],
+        "rating": "8.9",
+        "category": "Anime"
+    },
+    {
+        "name": "One Piece",
+        "img": "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
+        "year": "1998",
+        "genre": ["Action", "Drama"],
+        "featured":"https://images7.alphacoders.com/132/1329456.jpeg",
+        "rating": "8.5",
+        "category": "Anime"
+    },
+    {
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Kimetsu_no_Yaiba_Blu-ray_Disc_Box_1_art.jpg",
+        "year": "2019",
+        "featured":"https://images7.alphacoders.com/131/1311873.png",
+        "genre": ["Action", "Fantasy"],
+        "rating": "8.7",
+        "category": "Anime"
+    },
+    {
+        "name": "Hunter x Hunter",
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Hunter-x-hunter-phantom-rouge-poster.png",
+        "year": "2011",
+        "featured":"https://images7.alphacoders.com/838/838440.png",
+        "genre": ["Adventure", "Fantasy"],
+        "rating": "8.9",
+        "category": "Anime"
+        }
+    ]
+    

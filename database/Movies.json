@@ -1,0 +1,119 @@
+[
+    {
+        "name": "The Shawshank Redemption",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX674_.jpg",
+        "year": "1994",
+        "featured":"https://images8.alphacoders.com/573/573887.jpg",
+        "genre": ["Drama","Crime"],
+        "rating": "9.2",
+        "category": "Movies"
+    },
+    {
+        "name": "The Godfather",
+        "img": "https://upload.wikimedia.org/wikipedia/en/5/55/GodfatherIII2.jpg",
+        "year": "1972",
+        "featured":"https://images5.alphacoders.com/131/1315822.jpg",
+        "genre": ["Drama","Crime"],
+        "rating": "9.2",
+        "category": "Movies"
+    },
+    {
+        "name": "The Dark Knight",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX674_.jpg",
+        "year": "2008",
+        "featured":"https://images6.alphacoders.com/131/1318956.jpeg",
+        "genre": ["Action", "Adventure"],
+        "rating": "9.0",
+        "category": "Movies"
+    },
+    {
+        "name": "Pulp Fiction",
+        "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+        "year": "1994",
+        "featured":"https://images3.alphacoders.com/765/76577.jpg",
+        "genre": ["Drama","Crime"],
+        "rating": "8.9",
+        "category": "Movies"
+    },
+    {
+        "name": "Forrest Gump",
+        "img": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+        "year": "1994",
+        "featured":"https://images5.alphacoders.com/112/1121095.jpg",
+        "genre": ["Drama","Romance"],
+        "rating": "8.8",
+        "category": "Movies"
+    },
+    {
+        "name": "Fight Club",
+        "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+        "year": "1999",
+        "featured":"https://images3.alphacoders.com/602/602307.jpg",
+        "genre": ["Drama","Thriller"],
+        "rating": "8.8",
+        "category": "Movies"
+    },
+    {
+        "name": "The Matrix",
+        "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+        "year": "1999",
+        "featured":"https://images4.alphacoders.com/118/1185748.jpg",
+        "genre": ["Sci-fi", "Action"],
+        "rating": "8.7",
+        "category": "Movies"
+    },
+    {
+        "name": "Goodfellas",
+        "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg",
+        "year": "1990",
+        "featured":"https://images5.alphacoders.com/648/648002.jpg",
+        "genre": ["Drama","Crime"],
+        "rating": "8.7",
+        "category": "Movies"
+    },
+    {
+        "name": "Interstellar",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX674_.jpg",
+        "year": "2014",
+        "featured":"https://images5.alphacoders.com/885/885393.jpg",
+        "genre": ["Sci-fi", "Adventure"],
+        "rating": "8.6",
+        "category": "Movies"
+    },
+    {
+        "name": "Whiplash",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX674_.jpg",
+        "year": "2014",
+        "featured":"https://images3.alphacoders.com/676/676243.jpg",
+        "genre": ["Drama", "Music"],
+        "rating": "8.5",
+        "category": "Movies"
+    },
+    {
+        "name": "Parasite",
+        "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png",
+        "year": "2019",
+        "featured":"https://images6.alphacoders.com/112/1122542.jpg",
+        "genre": ["Thriller", "Drama"],
+        "rating": "8.5",
+        "category": "Movies"
+    },
+    {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_FMjpg_UX674_.jpg",
+        "year": "2018",
+        "featured":"https://images7.alphacoders.com/977/977085.jpg",
+        "genre": ["Family", "Action"],
+        "rating": "8.3",
+        "category": "Movies"
+    },
+    {
+        "name": "Coco",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_FMjpg_UX674_.jpg",
+        "year": "2017",
+        "featured":"https://images7.alphacoders.com/888/888355.jpg",
+        "genre": ["Family", "Adventure"],
+        "rating": "8.3",
+        "category": "Movies"
+    }
+]
